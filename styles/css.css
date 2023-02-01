@@ -1,10 +1,10 @@
 @charset "utf-8";
+
 body{
 	
 	margin: 0;
 	padding: 0;
-	font-family: sans-serif;
-	
+	font-family: 'Raleway', sans-serif;
 	
 }
 
@@ -14,8 +14,16 @@ body{
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
+	font-family: 'Raleway', sans-serif;
 
 }
+
+#infousuario{
+	
+	font-family: 'Raleway', sans-serif;
+
+}
+
 
 .cajausuario
 {
